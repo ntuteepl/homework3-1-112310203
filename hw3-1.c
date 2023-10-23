@@ -8,12 +8,12 @@ int main()
    int i;
    for(i=2;i<n;i++){
     if(n%i==0){
-printf("no");
+printf("NO");
 break;
     }
     }
  if(n==i) {
-printf("yes");
+printf("YES");
 }
 
 
