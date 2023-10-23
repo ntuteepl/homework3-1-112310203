@@ -15,6 +15,4 @@ break;
  if(n==i) {
 printf("YES");
 }
-
-
 }
